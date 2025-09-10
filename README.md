@@ -28,3 +28,7 @@
 - SQL (data preparation & modeling)
 - Tableau (data visualization, calculated fields, interactive dashboards)
 - Data analysis & business intelligence
+
+<img width="1399" height="799" alt="Inventory Snapshot" src="https://github.com/user-attachments/assets/3576318f-f26e-421f-9029-60d931469e0e" />
+
+
