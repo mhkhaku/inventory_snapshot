@@ -16,3 +16,15 @@
 - Stock Availability by Brand & Category: Bar chart showing available quantities broken down by product brand and category.
 - Stock Availability by Warehouse: Donut chart comparing available stock between warehouse locations (e.g., VAN vs. TOR).
 - Interactive Filters: Users can slice data by warehouse, brand, item ID, item category, or reporting date.
+
+### Impact:
+
+- Provided clear visibility into inventory levels, allocation, and distribution.
+- Helped simulate real-world decision-making for supply chain, procurement, and finance teams.
+- Demonstrated ability to design business-ready BI dashboards using synthetic data.
+
+### Tools & Skills Used:
+
+- SQL (data preparation & modeling)
+- Tableau (data visualization, calculated fields, interactive dashboards)
+- Data analysis & business intelligence
